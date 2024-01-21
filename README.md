@@ -21,6 +21,7 @@ Ce repo inclut les RD suivantes:
 - Toue le corps
 - TraTac
 - Vivance de la liberté
+- Vivance des 5 sens
 
 Source:
 Ces fiches résumant les RD sont tirés de ma formation à l'[IFS-Aliotta](https://www.sophrologie-formation.fr)
