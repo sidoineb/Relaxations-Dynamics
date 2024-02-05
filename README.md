@@ -26,3 +26,5 @@ Ce repo inclut les RD suivantes:
 Source:
 Ces fiches résumant les RD sont tirés de ma formation à l'[IFS-Aliotta](https://www.sophrologie-formation.fr)
 
+![](RD.png)
+
