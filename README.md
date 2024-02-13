@@ -18,7 +18,7 @@ Ce repo inclut les RD suivantes:
 - Prana
 - Rot. Ax.
 - Soufflet Thoracique
-- Toue le corps
+- Tout le corps
 - TraTac
 - Vivance de la liberté
 - Vivance des 5 sens
