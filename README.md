@@ -3,6 +3,7 @@
 **Fiches de résumés pour les sophrologues.**
 
 Ce repo inclut les RD suivantes:
+- Chauffage corporel
 - Doigts en griffe
 - Eventails
 - Exo de la tete
