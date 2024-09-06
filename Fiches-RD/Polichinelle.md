@@ -6,7 +6,7 @@
 
 Debout, les pieds parallèles écartés de la largeur du bassin et les genoux légèrement fléchis.
 Le dos droit, les épaules sont relâchées, les bras le long du corps et le mains ouvertes. La tête est
-droite et les yeux sont fermés.
+droite.
 
 ## Consignes de l’exercice
 
