@@ -18,6 +18,7 @@ Ce repo inclut les RD suivantes:
 - Pompage Epaules
 - Prana
 - Rot. Ax.
+- SCSC
 - Soufflet Thoracique
 - Tout le corps
 - TraTac
