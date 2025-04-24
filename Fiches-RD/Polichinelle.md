@@ -11,7 +11,7 @@ droite.
 ## Consignes de l’exercice
 
 Enchaînement à faire 1 fois :
-•Faire un maximum de petits sauts sur place en relâchant le haut du corps (thorax, bras et
+- Faire un maximum de petits sauts sur place en relâchant le haut du corps (thorax, bras et
 tête)
-•Le bas du corps reste tendu pour assurer les appuis
-•S’arrêter lorsque c’est inconfortable
+- Le bas du corps reste tendu pour assurer les appuis
+- S’arrêter lorsque c’est inconfortable
