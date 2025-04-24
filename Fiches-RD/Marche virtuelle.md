@@ -2,7 +2,7 @@
 
 **Intentions:**
 
-## Position de départ
+## Position de départ
 
 Debout, pieds parallèles écartés de la largeur du bassin et les genoux légèrement fléchis. Le dos
 droit, une main posée sur les cotes, l’autre main sur les lombaires, les épaules relâchées, la tête est
