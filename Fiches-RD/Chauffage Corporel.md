@@ -17,3 +17,5 @@ Debout, les pieds parallèles écartés de la largeur du bassin et les genoux l�
 3. Enchainement à répéter 3 fois la tête penchée en avant:
     - Gonfler le ventre en inspirant profondément par le nez
     - Rentrer le ventre en soufflant par la bouche
+    
+![](https://youtu.be/dXW_KOIuy5Y)
