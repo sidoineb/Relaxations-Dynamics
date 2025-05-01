@@ -6,8 +6,7 @@ Ce repo inclut les RD suivantes:
 - Chauffage corporel
 - Doigts en griffe
 - Eventails
-- Exo de la tete
-- Exo des mains
+- Exo de la tete / mains / bras / jambes
 - Exo des moulinets
 - Exo du cou
 - Karate
@@ -24,6 +23,10 @@ Ce repo inclut les RD suivantes:
 - TraTac
 - Vivance de la liberté
 - Vivance des 5 sens
+- Vivance des valeurs
+- Objet Concentration
+- Exo Respi 1 & 2
+
 
 Source:
 Ces fiches résumant les RD sont tirés de ma formation à l'[IFS-Aliotta](https://www.sophrologie-formation.fr)
